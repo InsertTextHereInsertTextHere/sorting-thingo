@@ -23,7 +23,7 @@ def draw():
     # fill the screen with a color to wipe away anything from last frame
     window.fill("black")
     # draw bar graph
-    i = 0
+    i = 0et
     for item in arr:
         pygame.draw.rect(
             window,
