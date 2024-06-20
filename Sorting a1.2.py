@@ -1,5 +1,8 @@
 # This is the sorting algorithmn visualiser
+
+# This version of Sorting Algoritmhn visualiser is the exact same as:
 # Version Alpha 1.0
+# Version Alpha 1.1
 
 import pygame
 
