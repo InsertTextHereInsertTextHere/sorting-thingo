@@ -1,5 +1,5 @@
 # This is the sorting algorithmn visualiser
-# Version alpha 1.0
+# Version Alpha 1.0
 
 import pygame
 
