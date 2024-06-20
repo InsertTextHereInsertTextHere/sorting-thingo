@@ -37,7 +37,7 @@ def draw():
 # pygame setup
 pygame.init()
 window = pygame.display.set_mode((1280, 720))
-clock = pygame.time.Clock()
+clock = pygame.time.Clock()s
 running = True
 dt = 0
 
