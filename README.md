@@ -6,4 +6,4 @@ Alpha versions are versions of this project where the actual project is unusable
 ### Alpha 1.1 (20 June 2024)
  - Added "README.md"
 ### Alpha 1.2 (20 June 2024)
- - Added "Old versions" folder in anticipations of keeeding old verisons for fun
+ - Added "Old versions" folder in anticipations of keeping old verisons for fun (its empty now so it doesn't show up)
