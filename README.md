@@ -13,3 +13,7 @@ Alpha versions are versions of this project where the actual project is unusable
  - Added "README.md"
 ### Alpha 1.2 (20 June 2024)
  - Added "Old versions" folder in anticipations of keeping old verisons for fun (its empty now so it doesn't show up)
+### Alpha 1.3 (22 June 2024)
+ - Bug fix
+    - Fixed "pygame.error: video system not initialized" error which occurs when closing window
+ - Changed window title to "Sorting Moment"
